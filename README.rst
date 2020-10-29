@@ -62,8 +62,8 @@ You can download Python from here:
 
     http://www.python.org/download
 
-After installing Python make sure the folder containing the python executable
-is in the system path. In other words, you need to be able to run
+After installing Python make sure the folder containing the python is executable
+in the system path. In other words, you need to be able to run
 Python from a command console. With Python 2 it will be called `python`
 or `python.exe` depending on the operating system. For Python 3 it will either
 be `python3` or for windows it will be `python.exe`.
@@ -127,8 +127,8 @@ fire up the command line, recreate the scenario and run queries:
 Sniffer Support
 ---------------
 
-Sniffer allows you to run the tests continuously. If you modify any files files
-in the koans directory, it will rerun the tests.
+Sniffer allows you to run the tests continuously. If you modify any files
+in the koans directory, it will re-run the tests.
 
 To set this up, you need to install sniffer::
 
@@ -172,7 +172,7 @@ Quoting the Ruby Koans instructions::
 	can make it any better). In this case you will need to run the koan
 	and see it fail (red), make the test pass (green), then take a
 	moment and reflect upon the test to see what it is teaching you
-	and improve the code to better communicate its intent (refactor)."
+	and improve the code to better communicate it's intent (refactor)."
 
 
 Content
